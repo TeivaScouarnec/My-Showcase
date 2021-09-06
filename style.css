@@ -1,0 +1,30 @@
+.pic
+{
+    border-style: groove;
+    border-radius: 3px;
+    float: right;
+}
+.name
+{
+    text-align: center;
+}
+.experience,ul 
+{
+    background-color: wheat;
+    border-radius: 6px;
+}
+
+h2
+{
+    font-style: oblique;
+}
+
+.title_experience
+{
+    font-weight: bold;
+}
+
+strong
+{
+    font-style: italic;
+}
