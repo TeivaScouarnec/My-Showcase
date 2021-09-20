@@ -1,0 +1,30 @@
+@font-face 
+{
+    font-family: "aAntaraDistance";
+    src: url(aAntaraDistance.ttf);
+}
+
+@font-face {
+    font-family: "Mama";
+    src: url(mama.ttf);
+}
+
+h1
+{
+    font-family: aAntaraDistance ;
+}
+
+h2
+{
+    font-family: aAntaraDistance;
+}
+
+p
+{
+    font-family: Mama;
+}
+
+a
+{
+    font-family: aAntaraDistance;
+}
