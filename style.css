@@ -20,14 +20,16 @@ h2
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 668px;
-    margin-top: -16%
+    /*! width: 668px; */
+    margin-top: -190px;
+    text-align: center;
+    margin-bottom: 5%;
 }
 
 .Title h1
 {   
     margin-bottom: 0px;
-    height: 246px;
+    height: 1%;
     font-size: 260px;
 }
 
@@ -37,7 +39,7 @@ h2
     margin-left: auto;
     margin-top: 25px;
     height: 49.5px;
-    width: 540px;
+    /*! width: 540px; */
     font-size: 50px;
 }
 
@@ -47,8 +49,9 @@ h2
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 0.48%;
-    width: 693px;
+    /*! margin-top: 0.48%; */
+    /*! width: ; */
+    text-align: center;
 }
 
  #separator
@@ -77,21 +80,21 @@ h2
     color: white;
 }
 
-.Network
-{
+.Network {
     margin-right: auto;
     margin-left: auto;
-    margin-top: -2%;
+    /*! margin-top: -2%; */
     display: flex;
-    height: 146px;
-    width: 760px;
+    /*! height: 14%; */
+    /*! width: 76%; */
 }
 
 .Network img
 {   
-    margin: 23px;
-    height: 144px;
-    width: 144px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 75%;
+    width: 90%;
 }
 
 .Kofi img
@@ -105,8 +108,44 @@ h2
 
 .illustrations
 {
+    height: 100px;
+    width: 100px;
     border: 1px solid #ddd;
     border-radius: 4px;
+    object-fit: cover;
     padding: 5px;
-    width: 150px;
+    
 }
+
+.drawsgroup
+{
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+
+.navdraws
+{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.navdraws li
+{  
+    display: inline-block;
+    list-style-type: none;
+    list-style-position: outside;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.navdraws a
+{
+    font-style: normal;
+    font-size: 250%;
+    color: bisque;
+}
+
