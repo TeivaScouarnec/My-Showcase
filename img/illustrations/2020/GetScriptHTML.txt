@@ -1,0 +1,3 @@
+<a href='..\..\img\illustrations\2020\Chain Tota.png' data-lightbox= 'illustrations'  data-title='Chain Tota.png'> <img class= 'illustrations' src='..\..\img\illustrations\2020\thumbnails\Chain Tota.png' alt='Chain Tota.png'></a>
+<a href='..\..\img\illustrations\2020\Groover-Fanart.jpg' data-lightbox= 'illustrations'  data-title='Groover-Fanart.jpg'> <img class= 'illustrations' src='..\..\img\illustrations\2020\thumbnails\Groover-Fanart.png' alt='Groover-Fanart.jpg'></a>
+<a href='..\..\img\illustrations\2020\Lionz Refsheet.png' data-lightbox= 'illustrations'  data-title='Lionz Refsheet.png'> <img class= 'illustrations' src='..\..\img\illustrations\2020\thumbnails\Lionz Refsheet.png' alt='Lionz Refsheet.png'></a>
