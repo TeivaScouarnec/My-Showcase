@@ -20,6 +20,76 @@ h2
 
 /* --- Class & Ids --- */
 
+.commissions
+{
+    color: orange;
+    display: grid;
+    margin-right: auto;
+    margin-left: auto;
+    width: fit-content;
+    text-align: center;
+}
+
+.commissions h2
+{
+    font-size: 35px;
+}
+
+.commissions div
+{
+    display: block;
+    background: rgba(0, 0, 0, 0.45);
+    border-radius: 75px;
+    margin-top: 10%;
+    
+}
+
+.commissions ul
+{
+    list-style: none;
+    text-align: center;
+    display: contents;
+}
+
+.commissions p
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.commissions #statut
+{
+    color: yellow;
+}
+
+.videos
+{
+    margin-left: auto;
+    margin-right: auto;
+    display: table;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.videos div
+{
+    margin-right: auto;
+    margin-left: auto;
+    display: inline-block;
+}
+
+.videos h3
+{
+    text-align: center;
+    font-size: x-large;
+    margin-bottom: auto;
+    margin-top: auto;
+    color: white;
+    margin-left: 2%;
+    margin-right: 2%;
+
+}
+
 .WorkInProgress
 {
     text-align: center;
